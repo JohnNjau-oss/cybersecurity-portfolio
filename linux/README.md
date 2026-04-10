@@ -1,15 +1,23 @@
 # Linux Fundamentals
 
-## What I am learning
-- File navigation
-- Permissions
-- Basic commands
-
 ## Commands
-- ls
-- cd
-- pwd
-- cat
+
+### ls
+Lists files and directories.
+
+Example:
+ls
+ls -la
+
+### cd
+Changes directory.
+
+Example:
+cd /home
+cd ..
+
+### pwd
+Shows current directory.
 
 ## Notes
-This section tracks my Linux cybersecurity learning journey.
+Learning how to navigate and interact with the Linux file system, which is essential for cybersecurity.
