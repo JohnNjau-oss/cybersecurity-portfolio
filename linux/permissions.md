@@ -2,7 +2,7 @@
 
 ## Overview
 This document explains Linux file permissions, ownership, and special permission bits.
-These are critical concepts for sysem securiy contro and user access control.
+These are critical concepts for system security control and user access control.
 
 # 1. File Permission Structure
 
