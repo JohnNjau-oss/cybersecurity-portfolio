@@ -13,6 +13,7 @@ These are critical concepts for system security control and user access control.
 -Next 3: Group permissions
 -Last 3: Other users(everyone else) 
 
+![Viewing permissios and changing permissions status](images/Checking-and-changing-permissions.png)
 
 # 2.chmod(Change Permissions)
 - Symbolic Method
@@ -41,6 +42,7 @@ These are critical concepts for system security control and user access control.
 - Change owner and group:
  - sudo chown user:group file.txt
 
+![Ownerships and files mod](images/permissions and chmod.png)
 
 # 4. Special Permissions
 
