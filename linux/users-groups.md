@@ -12,7 +12,8 @@ This document covers Linux user and group management, including creating users, 
 
 ```bash
 sudo useradd student1
-```
+
+![Creating a new user](images/user-creation.png)
 
 ### Set a password
 
@@ -47,6 +48,8 @@ exit
 ```bash
 sudo usermod -l newname student1
 ```
+- changed username from student1 to "newname"
+![Chnaging username](images/changing-username.png)
 
 ### Add user to sudo group (admin privileges)
 
@@ -54,7 +57,6 @@ sudo usermod -l newname student1
 sudo usermod -aG sudo student1
 ```
 
----
 
 ## 3. Working with Groups
 
@@ -63,6 +65,8 @@ sudo usermod -aG sudo student1
 ```bash
 sudo groupadd developers
 ```
+![Created a group and added user](images/group-creation.png)
+
 
 ### Add user to group
 
@@ -97,6 +101,7 @@ View file:
 ```bash
 cat /etc/passwd
 ```
+![]
 
 Example entry:
 
