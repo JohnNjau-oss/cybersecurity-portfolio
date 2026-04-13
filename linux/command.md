@@ -24,7 +24,7 @@ Shows current directory.
 ### mkdir (make directory)
 Used to create a directory
 
-![First Commands](/home/john-njau/Projects/cybersecurity-portfolio/linux/images/First-commands-cd-ls.png)
+![First Commands](images/First-commands-cd-ls.png)
 
 ### cat (concatenate)
  Used to view items inside a file
