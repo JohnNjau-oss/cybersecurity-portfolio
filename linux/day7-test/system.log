@@ -1,0 +1,6 @@
+user1 LOGIN SUCCESS
+user2 LOGIN FAILED
+user3 LOGIN SUCCESS
+user2 LOGIN FAILED
+user4 DELETE file1.txt
+user1 DOWNLOAD report.txt
